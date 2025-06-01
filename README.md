@@ -1,1 +1,1 @@
-# llm-zoomcamp-2025
+# LLM Zoomcamp 2025
